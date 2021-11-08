@@ -2,11 +2,7 @@
 # -*- coding:utf-8 -*-
 import sys
 from PyQt5.QtWidgets import QApplication, QMainWindow
-<<<<<<< HEAD
-from main import demo,demo_ngram
-=======
-from main import demo
->>>>>>> 60b592f7e141c0363c8f045df593923e9cc91027
+from main import demo, demo_ngram
 from Ui_spilit import Ui_MainWindow
 
 
